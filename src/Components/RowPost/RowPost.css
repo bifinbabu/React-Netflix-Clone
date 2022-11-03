@@ -15,11 +15,13 @@
     cursor: pointer;
     max-height: 195px;
     margin-right: 10px;
+    transition: 0.2s all ease-in-out;
 }
 .smallPoster{
     cursor: pointer;
     max-height: 140px;
     margin-right: 10px;
+    transition: 0.2s all ease-in-out;
 }
 .poster:hover{
     transform: scale(1.2);
